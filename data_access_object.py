@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  9 19:19:02 2020
 
-@author: aakas
+@author: sush1
 """
 
 # Purpose of this file is to pull data from RDS Postgres DB Instance which hosts our S3 object
