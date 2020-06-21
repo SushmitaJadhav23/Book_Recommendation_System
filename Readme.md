@@ -7,7 +7,7 @@ Use case: Assume, I am working for a online marketplace, the main problem is to 
 Dataset used: 
 Book crossing is a sharing platform where users from around the globe can share books with strangers as well as track their books.
 In this dataset, information about books and user rating is provided but Book purchase information is not available so I am assuming that the users who have rated the book may have purchased the book. <br>
-I have used this dataset which is made available by University of Freiburg at http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+This dataset is made available by University of Freiburg at http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 Technologies used:
 <b> AWS S3, AWS CLI, psql, AWS RDS PostgreSQL, Python, Tableau, Collaborative Filtering, Association Rule Learning ( APRIORI ALGORITHM) </b>
