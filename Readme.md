@@ -1,6 +1,6 @@
 <h1>Hybrid Recommender System</h1>
 
-Goal: Build a Full stack Data pipeline to build a Recommender system 
+Goal: Design and Develop Full stack Data Science pipeline to build a Recommender system 
 
 Use case: Assume, I am working for a online marketplace, the main problem is to increase sales of books by providing personalized recommendation & improve user experience. It is very essential to understand user's book reading behavior, before proceeding to provide recommendation.
 
