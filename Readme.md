@@ -1,4 +1,4 @@
-<h1>Hybrid Recommender System<h1>
+<h1>Hybrid Recommender System</h1>
 
 Goal: Build a Full stack Data pipeline to build a Recommender system 
 
