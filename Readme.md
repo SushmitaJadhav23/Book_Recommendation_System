@@ -2,7 +2,8 @@
 
 Goal: Design and Develop Full stack Data Science pipeline to build a Recommender system 
 
-Use case: Assume, I am working for a online marketplace, the main problem is to increase sales of books by providing personalized recommendation & improve user experience. It is very essential to understand user's book reading behavior, before proceeding to provide recommendation.
+Use case: Assuming that for an online marketplace, the main problem is to increase sales of books. One approach to solve this problem and increase sales is by providing personalized recommendation & improve user experience. This will help user to mine their preferred book of choice from our vast catalog. 
+It is very essential to understand user's book reading behavior, before proceeding to provide recommendation.
 
 Dataset used: 
 Book crossing is a sharing platform where users from around the globe can share books with strangers as well as track their books.
