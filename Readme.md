@@ -3,7 +3,7 @@
 Goal: Design and Develop Full stack Data Science pipeline to build a Recommender system 
 
 Technologies used:
-<b> AWS S3, AWS CLI, psql, AWS RDS PostgreSQL, Python, Tableau, Collaborative Filtering, Association Rule Learning ( APRIORI ALGORITHM)</b>
+<b> AWS S3, AWS CLI, psql, AWS RDS PostgreSQL, Python, Tableau, Collaborative Filtering, Association Rule Learning ( APRIORI ALGORITHM), Git Version Control</b>
 
 Use case: For an online marketplace, the main problem is to increase sales of books and enhance User Experience. One approach to solve this problem is by providing personalized recommendation & improve user experience. This will help users to choose their preferred book from a vast catalog. 
 It is very essential to understand user's book reading behavior, before proceeding to provide recommendation.
